@@ -1,3 +1,7 @@
+## Note:
+- This repository is a fork of the official Microsoft PowerToys.
+- I am implementing a translate feature which pops up from a corner and can run translates very quickly.
+
 # Microsoft PowerToys
 
 ![Hero image for Microsoft PowerToys](doc/images/overview/PT_hero_image.png)
